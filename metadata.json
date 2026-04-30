@@ -1,0 +1,7 @@
+{
+  "name": "Kinetic Magic Mirror",
+  "description": "An interactive 3D experience featuring a grid of rotating bi-color disks that respond to mouse movement, inspired by kinetic art displays.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
